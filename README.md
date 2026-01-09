@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=435&lines=SYSTEM_BOOT%3A+INITIATED...;LOADING_MODEL%3A+PIYUSH_YADAV;ARCH%3A+DEEP_LEARNING_ENGINEER;STATUS%3A+READY_TO_DEPLOY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=435&lines=SYSTEM_BOOT%3A+INITIATED...;LOADING_MODEL%3A+PIYUSH;ARCH%3A+DEEP_LEARNING_ENGINEER;STATUS%3A+READY_TO_DEPLOY" alt="Typing SVG" />
   </a>
 
 </div>
@@ -43,3 +43,11 @@ class PiyushYadav:
             caffeine.consume()
             if errors == 0:
                 break
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPiyushYadav0021%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPiyushYadav0021%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="languages graph" /> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPiyushYadav0021%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="streak graph" /> </div>
+
+<div align="center"> <sub><em>"Data is the new oil, but the engine is the logic."</em></sub> </div>
+
+
