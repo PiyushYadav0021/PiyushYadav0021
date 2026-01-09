@@ -1,38 +1,45 @@
-# 🤖 Neural Architect | <Piyush Yadav>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmYWNlYm9vayZjdD1n/3o7TKSjPxyS0o8MQp2/giphy.gif" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=435&lines=SYSTEM_BOOT%3A+INITIATED...;LOADING_MODEL%3A+PIYUSH_YADAV;ARCH%3A+DEEP_LEARNING_ENGINEER;STATUS%3A+READY_TO_DEPLOY" alt="Typing SVG" />
+  </a>
+
 </div>
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Piyush%20Yadav&textBg=false
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME">
+    <img src="https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
+  </a>
+</div>
 
-## 🧬 Training Epochs (My Story)
+<br />
 
-<table>
-  <tr>
-    <td><img src="https://your-custom-timeline-icon-1.png" width="100"/></td>
-    <td><strong>Input Layer: Education</strong><br>B.S. in Computer Science. Focused on Linear Algebra and Calculus. <i>(2018-2022)</i></td>
-  </tr>
-  <tr>
-    <td><img src="https://your-custom-timeline-icon-2.png" width="100"/></td>
-    <td><strong>Hidden Layer 01: Deep Learning</strong><br>Certified in Neural Networks. Built my first CNN for image recognition.</td>
-  </tr>
-  <tr>
-    <td><img src="https://your-custom-timeline-icon-3.png" width="100"/></td>
-    <td><strong>Hidden Layer 02: Real World</strong><br>ML Engineer at [Company]. Optimized LLMs for latency.</td>
-  </tr>
-  <tr>
-    <td><img src="https://your-custom-timeline-icon-4.png" width="100"/></td>
-    <td><strong>Output Layer: Current Goal</strong><br>Researching Generative Agents and Robotics.</td>
-  </tr>
-</table>
+### 🧬 Model Architecture: `class Piyush(MLEngineer):`
 
----
-
-## 🛠 Model Parameters (Tech Stack)
-
-| 🟢 Frameworks | 🔵 Deployment | 🟠 Data Science |
-| :--- | :--- | :--- |
-| PyTorch / TensorFlow | Docker / Kubernetes | Pandas / NumPy |
-| Scikit-Learn | AWS Sagemaker | SQL / NoSQL |
-| HuggingFace | Flask / FastAPI | Tableau / PowerBI |
+```python
+class PiyushYadav:
+    def __init__(self):
+        self.name = "Piyush Yadav"
+        self.role = "AI/ML Engineer"
+        self.language = ["en_US", "hi_IN"]
+        
+    def get_current_focus(self):
+        return {
+            "focus": "Deep Learning & Computer Vision",
+            "learning": "Generative Adversarial Networks (GANs)",
+            "goal": "Building scalable AI solutions"
+        }
+    
+    def daily_routine(self):
+        while True:
+            code()
+            debug()
+            caffeine.consume()
+            if errors == 0:
+                break
