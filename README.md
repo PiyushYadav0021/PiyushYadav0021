@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/piyushyadav0021">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:piyushtejyadav2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME">
+  <a href="https://kaggle.com/piyush0021">
     <img src="https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
   </a>
 </div>
