@@ -47,20 +47,8 @@ class PiyushYadav:
 
 
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PiyushYadav0021&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushYadav0021&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" /> </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiyushYadav0021&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushYadav0021&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushYadav0021&theme=radical&hide_border=true" height="150" alt="streak graph" /> </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushYadav0021&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <sub><em>"Data is the new oil, but the engine is the logic."</em></sub>
-</div>
+<div align="center"> <sub><em>"Data is the new oil, but the engine is the logic."</em></sub> </div>
