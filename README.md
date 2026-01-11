@@ -43,11 +43,3 @@ class PiyushYadav:
             caffeine.consume()
             if errors == 0:
                 break
-
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPiyushYadav0021%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="stats graph" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPiyushYadav0021%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="languages graph" /> </div>
-
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPiyushYadav0021%26theme%3Dradical%26hide_border%3Dtrue" height="150" alt="streak graph" /> </div>
-
-<div align="center"> <sub><em>"Data is the new oil, but the engine is the logic."</em></sub> </div>
-
-
