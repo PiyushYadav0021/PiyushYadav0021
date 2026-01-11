@@ -43,3 +43,19 @@ class PiyushYadav:
             caffeine.consume()
             if errors == 0:
                 break
+
+Epoch,Phase (Education),Accuracy (Achievement),Loss (Challenge)
+01,B.Tech in CSE[Your College Name],CGPA: 8.X/10,Sleep Deprivation
+02,Machine Learning Spec.Coursera / Certification,Certified,High Dimensionality
+03,Current StateIndependent Researcher,Portfolio Ready,Continuous Learning
+
+
+Pipeline Stage,Technology Stack
+Data Processing,
+Model Building,
+Deployment/Ops,
+
+Input (Project Name),Hidden Layers (Tech Used),Output (Result)
+Object Detection System,YOLOv8 OpenCV Python,Real-time traffic monitoring with 95% accuracy.
+Chatbot Assistant,LSTMs NLTK Flask,Reduced customer support query time by 40%.
+Stock Price Predictor,Linear Regression Pandas,Visualized market trends for tech stocks.
