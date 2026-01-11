@@ -1,20 +1,20 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=435&lines=SYSTEM_BOOT%3A+INITIATED...;LOADING_MODEL%3A+PIYUSH;ARCH%3A+DEEP_LEARNING_ENGINEER;STATUS%3A+READY_TO_DEPLOY" alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=435&lines=SYSTEM_BOOT%3A+INITIATED...;LOADING_MODEL%3A+PIYUSH;ARCH%3A+DEEP_LEARNING_ENGINEER;STATUS%3A+READY_TO_DEPLOY](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=435&lines=SYSTEM_BOOT%3A+INITIATED...;LOADING_MODEL%3A+PIYUSH;ARCH%3A+DEEP_LEARNING_ENGINEER;STATUS%3A+READY_TO_DEPLOY)" alt="Typing SVG" />
   </a>
 
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/piyushyadav0021">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="[https://linkedin.com/in/piyushyadav0021](https://linkedin.com/in/piyushyadav0021)">
+    <img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)" alt="LinkedIn"/>
   </a>
   <a href="mailto:piyushtejyadav2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="[https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)" alt="Email"/>
   </a>
-  <a href="https://kaggle.com/piyush0021">
-    <img src="https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
+  <a href="[https://kaggle.com/piyush0021](https://kaggle.com/piyush0021)">
+    <img src="[https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle](https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle)" alt="Kaggle"/>
   </a>
 </div>
 
@@ -43,12 +43,3 @@ class PiyushYadav:
             caffeine.consume()
             if errors == 0:
                 break
-
-
-
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PiyushYadav0021&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushYadav0021&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushYadav0021&theme=radical&hide_border=true" height="150" alt="streak graph" /> </div>
-
-<div align="center"> <sub><em>"Data is the new oil, but the engine is the logic."</em></sub> </div>
