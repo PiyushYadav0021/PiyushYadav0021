@@ -31,7 +31,7 @@ class PiyushYadav:
         
     def get_current_focus(self):
         return {
-            "focus": "Deep Learning & Computer Vision",
+            "focus": "Machine Learning, Deep Learning & Computer Vision",
             "learning": "Generative Adversarial Networks (GANs)",
             "goal": "Building scalable AI solutions"
         }
