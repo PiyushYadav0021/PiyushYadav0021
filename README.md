@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing.svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=435&lines=SYSTEM_BOOT%3A+INITIATED...;LOADING_MODEL%3A+PIYUSH YADAV;ARCH%3A+DEEP_LEARNING_ENGINEER;STATUS%3A+READY_TO_DEPLOY" alt="Typing SVG" />
   </a>
 
