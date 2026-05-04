@@ -36,3 +36,10 @@ class PiyushYadav:
             "goal": "Building scalable AI solutions"
         }
     
+    def daily_routine(self):
+        while True:
+            code()
+            debug()
+            caffeine.consume()
+            if errors == 0:
+                break
